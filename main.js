@@ -4,3 +4,11 @@ function activeLink(){
 	this.classList.add('active');
 }
 list.forEach((item)=>item.addEventListener('click',activeLink));
+
+
+
+
+/*
+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
+ HangaWilfried
+*/
